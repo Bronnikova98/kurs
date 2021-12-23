@@ -129,7 +129,7 @@
         ><v-col cols="12" xl="7" lg="7" md="7" sm="7"
           ><p class="welcome_text">
             Здравствуйте! Меня зовут Виктория Бронникова, я - профессиональный
-            фотограф, уже 10 лет фотографирую для Вас
+            фотограф, уже 6 лет фотографирую для Вас
           </p></v-col
         ></v-row
       >
@@ -168,12 +168,12 @@
     <div class="footer">
       <div class="footer_icon">
         <v-row>
-          <img class="icon" src="@/assets/телефон.png" alt="" />
+          <a href=""><img class="icon" src="@/assets/телефон.png" alt="" /></a>
 
-          <img class="icon" src="@/assets/вк.png" alt="" />
+          <a href=""><img class="icon" src="@/assets/вк.png" alt="" /></a>
 
-          <img class="icon" src="@/assets/инст.png" alt=""
-        /></v-row>
+          <a href=""><img class="icon" src="@/assets/инст.png" alt="" /></a>
+        </v-row>
       </div>
       <div class="footer_sign">
         <v-row
